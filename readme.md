@@ -57,7 +57,7 @@ Langkah pertama yang perlu Anda lakukan adalah menginstal CLI NestJS. CLI NestJS
 Anda dapat menggunakan CLI NestJS untuk membuat proyek kosong. Untuk memulai, jalankan perintah berikut di lokasi di mana Anda ingin meletakkan proyek:
 
 ```bash
-npx @nestjs/cli new median
+npx @nestjs/cli new .
 ```
 
 CLI akan meminta Anda memilih manajer paket untuk proyek Anda - pilih npm. Setelah itu, Anda akan memiliki proyek NestJS baru di direktori saat ini.
@@ -126,6 +126,7 @@ services:
     environment:
       - POSTGRES_USER=myuser
       - POSTGRES_PASSWORD=mypassword
+      - POSTGRES_DB=mydatabase
     volumes:
       - postgres:/var/lib/postgresql/data
     ports:
