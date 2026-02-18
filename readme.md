@@ -167,11 +167,11 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 
 | Item | Keterangan |
 |------|------------|
-| Nama | _________________________ |
-| NIM | _________________________ |
-| Tanggal Mulai | _________________________ |
-| Tanggal Selesai | _________________________ |
-| Tanda Tangan | _________________________ |
+| Nama |MUHAMMAD LUTHFI ALFARITSI|
+| NIM |105841117122|
+| Tanggal Mulai |14/02/2026 |
+| Tanggal Selesai |18/02/2026|
+| Tanda Tangan |LUTHFI|
 
 ---
 
